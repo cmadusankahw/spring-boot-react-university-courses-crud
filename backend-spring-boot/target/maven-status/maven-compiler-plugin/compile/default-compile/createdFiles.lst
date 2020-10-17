@@ -1,0 +1,4 @@
+com/cmadusankahw/springboot/maven/crud/departmentCourses/Main.class
+com/cmadusankahw/springboot/maven/crud/departmentCourses/controller/CoursesHardcodedService.class
+com/cmadusankahw/springboot/maven/crud/departmentCourses/controller/CourseResource.class
+com/cmadusankahw/springboot/maven/crud/departmentCourses/model/Course.class

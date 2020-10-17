@@ -1,0 +1,8 @@
+2020.10.16 06:53:04 INFO  started: Metals version 0.9.4 in workspace '/home/chiran/Documents/spring-boot-react-crud-full-stack-with-maven/frontend-spring-boot-react-crud-full-stack-with-maven' for client vscode.
+2020.10.16 06:53:43 INFO  time: initialize in 41s
+2020.10.16 06:54:28 WARN  no build tool detected in workspace '/home/chiran/Documents/spring-boot-react-crud-full-stack-with-maven/frontend-spring-boot-react-crud-full-stack-with-maven'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Oct 16, 2020 7:01:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Oct 16, 2020 7:02:38 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.10.16 07:02:47 INFO  shutting down Metals
