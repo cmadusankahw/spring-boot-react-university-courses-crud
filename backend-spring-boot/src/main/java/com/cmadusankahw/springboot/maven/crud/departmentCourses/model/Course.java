@@ -4,16 +4,18 @@ public class Course {
 	private Long id;
 	private String department;
 	private String description;
+	private int target;
 
 	public Course() {
 
 	}
 
-	public Course(long id, String department, String description) {
+	public Course(long id, String department, String description, int target) {
 		super();
 		this.id = id;
 		this.department = department;
 		this.description = description;
+		this.target = target;
 	}
 
 	public Long getId() {
@@ -38,6 +40,14 @@ public class Course {
 
 	public void setDescription(String description) {
 		this.description = description;
+	}
+	
+	public Long getTarget() {
+		return target;
+	}
+
+	public void setTarget(int target) {
+		this.target= target;
 	}
 
 	@Override
